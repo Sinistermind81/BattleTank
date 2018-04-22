@@ -6,9 +6,8 @@ These are just the files from the course, not the actual tutorial videos. This c
 
 You're welcome to download, fork or do whatever else legal with all the files!
 
-Enjoy yourself.
-
-Ben Tristem
+Section 04 Battle Tank Game
+Open-world head-to-head tank battle.
 
 ---
 Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
